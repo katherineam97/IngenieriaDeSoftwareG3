@@ -1,0 +1,9 @@
+C:\Users\b70442\Desktop\PROYECTO\Database1\Database1\bin\Debug\Manual_ASP_NET_DB.dacpac
+C:\Users\b70442\Desktop\PROYECTO\Database1\Database1\bin\Debug\Database1.dll
+C:\Users\b70442\Desktop\PROYECTO\Database1\Database1\bin\Debug\Database1.pdb
+C:\Users\b70442\Desktop\PROYECTO\Database1\Database1\obj\Debug\Model.xml
+C:\Users\b70442\Desktop\PROYECTO\Database1\Database1\obj\Debug\refactor.xml
+C:\Users\b70442\Desktop\PROYECTO\Database1\Database1\obj\Debug\postdeploy.sql
+C:\Users\b70442\Desktop\PROYECTO\Database1\Database1\obj\Debug\predeploy.sql
+C:\Users\b70442\Desktop\PROYECTO\Database1\Database1\obj\Debug\Database1.dll
+C:\Users\b70442\Desktop\PROYECTO\Database1\Database1\obj\Debug\Database1.pdb
